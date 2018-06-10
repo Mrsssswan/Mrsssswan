@@ -7,4 +7,6 @@
 
 3.https://www.php.cn/wenda/135899.html  (spring boot 部署到服务器上使用https，可能需要翻墙)
 
-4.https://www.augsky.com/599.html  （U盘安装CentOS7的最终解决方案）
+4.https://www.augsky.com/599.html  （U盘安装CentOS7的最终解决方案 包括出现的大部分问题）
+
+5.https://www.cnblogs.com/yeeo1/p/7306611.html  （U盘安装CentOS7步骤）
