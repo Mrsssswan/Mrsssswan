@@ -10,3 +10,5 @@
 4.https://www.augsky.com/599.html  （U盘安装CentOS7的最终解决方案 包括出现的大部分问题）
 
 5.https://www.cnblogs.com/yeeo1/p/7306611.html  （U盘安装CentOS7步骤）
+
+6.https://blog.csdn.net/a745233700/article/details/79322757  （Java使用SFTP和FTP两种连接方式实现对服务器的上传下载）
