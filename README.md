@@ -16,3 +16,5 @@
 7.https://www.cnblogs.com/hackyo/p/5891615.html  （Nginx+Tomcat+Https 服务器负载均衡配置 ）
 
 7.https://hexo.io/zh-cn/docs/configuration.html （hexo配置）
+
+8.https://blog.csdn.net/qq_32815807/article/details/72188848  (mysql.sock本质问题所在)
