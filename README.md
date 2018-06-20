@@ -14,3 +14,5 @@
 6.https://blog.csdn.net/a745233700/article/details/79322757  （Java使用SFTP和FTP两种连接方式实现对服务器的上传下载）
 
 7.https://www.cnblogs.com/hackyo/p/5891615.html  （Nginx+Tomcat+Https 服务器负载均衡配置 ）
+
+7.https://hexo.io/zh-cn/docs/configuration.html （hexo配置）
