@@ -18,3 +18,5 @@
 7.https://hexo.io/zh-cn/docs/configuration.html （hexo配置）
 
 8.https://blog.csdn.net/qq_32815807/article/details/72188848  (mysql.sock本质问题所在)
+
+9.https://blog.csdn.net/lemonxq/article/details/72676005  （hexo搭建静态网页）
