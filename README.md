@@ -24,3 +24,5 @@
 10.https://blog.csdn.net/cloume/article/details/78252319  （Nginx配置HTTPS）
 
 11.http://www.cnblogs.com/zyf-zhaoyafei/p/4716297.html （计算机网络面试总结）
+
+12 https://blog.csdn.net/qq_38974634 （同学博客）
