@@ -26,3 +26,5 @@
 11.http://www.cnblogs.com/zyf-zhaoyafei/p/4716297.html （计算机网络面试总结）
 
 12 https://blog.csdn.net/qq_38974634 （同学博客）
+
+13 https://blog.csdn.net/nawuyao/article/details/52703384 （操作系统面试总结）
