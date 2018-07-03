@@ -31,4 +31,6 @@
 
 14 https://blog.csdn.net/nawuyao  (跟自己即将面试所需知识极大一直的博客)
 
-15 https://blog.csdn.net/hope900/article/details/78647466（Java面试）
+15 https://blog.csdn.net/hope900/article/details/78647466 （Java面试）
+
+16 https://blog.csdn.net/zm13007310400/article/details/77534349   （常量池）
