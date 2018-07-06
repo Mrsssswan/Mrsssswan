@@ -1,1 +1,37 @@
-mrsssswan.club
+Java工程师 技术博客: https://www.mrsssswan.club
+
+主修：数据结构、Java程序设计、面向对象分析与设计、软件工程、数据库概论、操作系统、离散数学
+
+技能清单：
+
+1.有自己的阿里云服务器和个人网站，会linux基本操作和命令，熟悉nginx，tomcat等web服务器，熟练搭建Linux和window下的开发环境
+2.了解一点jvm，深入看过《深入理解Java虚拟机》，了解常用的设计模式例如单例模式，工厂模式，以及简单数据结构如链表，队列
+3.Java基础扎实，熟练使用面向对象进行程序设计，熟悉常用的Java API，包括集合框架，I/O（NIO），反射。平时喜欢阅读官方英文文档，已过CET6
+4.熟悉struts2的原理，看过《struts2技术内幕》，了解spring，springmvc，mybatis，springboot，开发过各种基本的Java Web项目
+5.熟练使用Jsp，servlet，熟悉其生命周期及工作原理，熟悉Spring AOP及IOC容器原理，熟悉Spring事物，熟练使用Mybatis generator插件快速开发，熟练使用MVC架构开发Java Web程序
+6.熟悉常用的关系型数据库Mysql，平时习惯在纯命令行下手敲mysql基本命令，了解并使用过redis，mongodb开发Java Web项目
+7.熟练使用开发环境工具eclipse，以及熟悉使用Intellij IDEA，版本控制工具Git，项目构建和管理工具Maven，和接口测试工具Postman
+8.了解前端，css，js，ajax，html，会使用bootstrap开发简单的前台页面
+
+仿电商项目：
+开发环境：JDK1.8+tomcat9+Maven+Git+Intellij IDEA，Postman测试各个接口，
+开发技术：Spring，SpringMVC，Mybatis
+项目描述：该项目模拟电商平台，用户注册登录后可以查看商品信息，浏览商品，加入购物车，下单支付宝支付。管理员可以管理商品，包括增加、删除商品，更改商品信息等
+职责描述：1.该项目是网上购物电商商城。包括有用户模块，订单模块，支付模块，商品模块，购物车模块
+                 2.由于是第一个企业入门级别的项目，且是用Intellij IDEA开发的，在编码时遇到过各种问题。比如git的使用，云服务器上的部署，为此，还专门针对各种问题写了技术博客
+                 3.项目用到了用户权限验证，MD5加密技术，myabtis generator插件快速构建代码
+                 4.项目源码：https://github.com/Mrsssswan/Mrsssswan-mall/tree/v1.0          
+
+晚饭单车：
+开发环境：JDK1.8+Intellij IDEA+Postman+springboot+微信开发平台
+项目描述：该项目是模拟共享单车小程序，springboot做后台逻辑管理，可以添加虚拟单车，显示附近单车，用户注册，用户认证等功能
+职责描述：1.第一个上线的springboot项目，使用了微信小程序做后台，独立搭建了nginx的https，部署了云服务器上各种环境，由此写了好几篇技术博客，搭建https://www.mrsssswan.club/2018/06/23/xiaochengxu-deploy-1/
+                  2.该项目使用了redis存储短信，并设置了超时时间，用了mongodb存储单车信息，以及使用geo技术查找附近单车
+项目源码：https://github.com/Mrsssswan/Bikes
+
+自我评价
+
+1 . 热爱编程，喜欢钻研，Linux一年使用经验
+２．自学能力强，大二上学期就过了CET6，自学两年Java，目前能用主流框架开发基本web工程 
+３．数据库，操作系统，java语言基础扎实 
+４．热爱技术类网站，例如github，leetcode,实验楼，慕课网。
